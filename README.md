@@ -29,15 +29,15 @@
 ## 📁 Project Structure
 
 ```text
-Tillidon-fx991ms/
+Scientific-Calculator/
 ├── assets/
 │   ├── icon.ico
 │   └── app_preview.png
 ├── dist/
-│   └── Synapse991.exe             # Main Executable File
-├── scientific_calculator.py       # Main Application Code
-├── README.md                      # Project Documentation
-└── LICENSE.md                     # Open-source License
+│   └── scientific_calculator.exe        # Main Executable File
+├── scientific_calculator.py             # Main Application Code
+├── README.md                            # Project Documentation
+└── LICENSE.md                           # Open-source License
 ```
 
 ---
