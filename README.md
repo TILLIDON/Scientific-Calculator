@@ -67,10 +67,10 @@ If Python is not installed on your system and you want to run the compiled appli
 
 1. **Download the Executable:**
    * Go to the [Releases](../../releases) section of this repository.
-   * Download the latest `Synapse991.exe` file.
+   * Download the latest `scientific_calculator.exe ` file.
 
 2. **Run the Application:**
-   * Double-click on `Synapse991.exe` to launch the graphical user interface.
+   * Double-click on `scientific_calculator.exe ` to launch the graphical user interface.
    * Press **Help > Key guide** inside the app to view all keyboard shortcuts, modes, and syntax!
 
 ---
