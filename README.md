@@ -47,8 +47,8 @@ Scientific-Calculator/
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/TILLIDON/Tillidon-fx991ms.git](https://github.com/TILLIDON/Scientific-Calculator.git)
-cd Tillidon-fx991ms
+git clone https://github.com/TILLIDON/Scientific-Calculator.git
+cd Scientific-calculator
 ```
 
 2. **Run the application:**
